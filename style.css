@@ -1,0 +1,16 @@
+header {
+    background-image: url(https://wallpapercave.com/wp/4Eg4frU.jpg);
+    height: 600px;
+    text-align: center;
+} 
+header p {
+    font-style: italic;
+}
+.nav-item:hover {
+    font-size: 20pt;
+}
+nav {
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: "Fira Sans", sans-serif;
+}
