@@ -1,10 +1,25 @@
 header {
-    background-image: url(https://wallpapercave.com/wp/4Eg4frU.jpg);
-    height: 600px;
+    background-image: url(https://i.stack.imgur.com/fhEwl.png);
+    height: 300px;
     text-align: center;
 } 
 header p {
     font-style: italic;
+}
+.services i{
+    font-size: 30px;
+    padding: 25px 20px;
+    color: #fff;
+    /** Above code does the color of the icon**/
+    background-color: #5bc0de ;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    text-align: center;
+}
+.services span {
+    width: 200px;
+    display: inline-block;
 }
 .nav-item:hover {
     font-size: 20pt;
