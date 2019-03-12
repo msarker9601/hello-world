@@ -29,3 +29,8 @@ nav {
     font-style: italic;
     font-family: "Fira Sans", sans-serif;
 }
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
