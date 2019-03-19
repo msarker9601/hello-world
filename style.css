@@ -35,6 +35,15 @@ img {
     border-radius: 50%;
 }
 .pricing {
-   border: 1px solid black;
-   
+   border: 5px solid black;
+}
+.level {
+    text-align: center;
+    border: 5px solid blue;
+}
+.contacts .input-group {
+    margin-bottom: 10px;
+}
+.contacts i {
+    padding: 17px;
 }
